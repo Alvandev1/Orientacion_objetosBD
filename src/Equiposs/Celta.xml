@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipo nombre="Celta de Vigo">
+    <jugadores>
+        <!-- Porteros -->
+        <jugador>
+            <nombre>Iván Villar</nombre>
+            <dorsal>1</dorsal>
+            <demarcacion>Portero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>09/07/1997</nacimiento>
+            <altura>1.86m</altura>
+            <peso>76kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>V. Guaita</nombre>
+            <dorsal>13</dorsal>
+            <demarcacion>Portero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>10/01/1987</nacimiento>
+            <altura>1.90m</altura>
+            <peso>80kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Marc Vidal</nombre>
+            <dorsal>26</dorsal>
+            <demarcacion>Portero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>14/02/2000</nacimiento>
+            <altura>1.85m</altura>
+            <peso>74kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Cesar Fernández</nombre>
+            <dorsal>27</dorsal>
+            <demarcacion>Portero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>28/01/2004</nacimiento>
+            <altura>1.81m</altura>
+            <peso>-</peso>
+        </jugador>
+
+        <!-- Defensas -->
+        <jugador>
+            <nombre>Starfelt</nombre>
+            <dorsal>2</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>Suecia</nacionalidad>
+            <nacimiento>01/06/1995</nacimiento>
+            <altura>1.87m</altura>
+            <peso>83kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>O. Mingueza</nombre>
+            <dorsal>3</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>13/05/1999</nacimiento>
+            <altura>1.84m</altura>
+            <peso>75kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Carreira</nombre>
+            <dorsal>5</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>13/10/2000</nacimiento>
+            <altura>1.70m</altura>
+            <peso>70kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Aidoo Jr</nombre>
+            <dorsal>15</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>Ghana</nacionalidad>
+            <nacimiento>29/09/1995</nacimiento>
+            <altura>1.84m</altura>
+            <peso>80kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Marcos A.</nombre>
+            <dorsal>20</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>28/12/1990</nacimiento>
+            <altura>1.88m</altura>
+            <peso>84kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Ristic</nombre>
+            <dorsal>21</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>Serbia</nacionalidad>
+            <nacimiento>31/10/1995</nacimiento>
+            <altura>1.80m</altura>
+            <peso>75kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Manquillo</nombre>
+            <dorsal>22</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>05/05/1994</nacimiento>
+            <altura>1.78m</altura>
+            <peso>76kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>C. Domínguez</nombre>
+            <dorsal>24</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>11/02/2001</nacimiento>
+            <altura>1.87m</altura>
+            <peso>81kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Javi Rodríguez</nombre>
+            <dorsal>32</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>27/06/2003</nacimiento>
+            <altura>-</altura>
+            <peso>-</peso>
+        </jugador>
+
+        <!-- Centrocampistas -->
+        <jugador>
+            <nombre>Ilaix Moriba</nombre>
+            <dorsal>6</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Guinea</nacionalidad>
+            <nacimiento>19/01/2003</nacimiento>
+            <altura>1.65m</altura>
+            <peso>73kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Fran Beltrán</nombre>
+            <dorsal>8</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>03/02/1999</nacimiento>
+            <altura>1.70m</altura>
+            <peso>66kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>De La Torre</nombre>
+            <dorsal>14</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Estados Unidos</nacionalidad>
+            <nacimiento>23/05/1998</nacimiento>
+            <altura>1.78m</altura>
+            <peso>63kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Jailson</nombre>
+            <dorsal>16</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Brasil</nacionalidad>
+            <nacimiento>07/09/1995</nacimiento>
+            <altura>1.87m</altura>
+            <peso>75kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Bamba</nombre>
+            <dorsal>17</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Costa de Marfil</nacionalidad>
+            <nacimiento>26/03/1996</nacimiento>
+            <altura>1.75m</altura>
+            <peso>72kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Williot</nombre>
+            <dorsal>19</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Suecia</nacionalidad>
+            <nacimiento>01/02/2004</nacimiento>
+            <altura>1.87m</altura>
+            <peso>78kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Damian</nombre>
+            <dorsal>25</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>17/03/2003</nacimiento>
+            <altura>1.80m</altura>
+            <peso>75kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Hugo Álvarez</nombre>
+            <dorsal>30</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>02/07/2003</nacimiento>
+            <altura>1.76m</altura>
+            <peso>72kg</peso>
+        </jugador>
+
+        <!-- Delanteros -->
+        <jugador>
+            <nombre>B. Iglesias</nombre>
+            <dorsal>7</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>17/01/1993</nacimiento>
+            <altura>1.87m</altura>
+            <peso>86kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Douvikas</nombre>
+            <dorsal>9</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>Grecia</nacionalidad>
+            <nacimiento>02/08/1999</nacimiento>
+            <altura>1.86m</altura>
+            <peso>76kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Iago Aspas</nombre>
+            <dorsal>10</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>01/08/1987</nacimiento>
+            <altura>1.76m</altura>
+            <peso>67kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Franco</nombre>
+            <dorsal>11</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>Argentina</nacionalidad>
+            <nacimiento>26/05/1994</nacimiento>
+            <altura>1.66m</altura>
+            <peso>67kg</peso>
+        </jugador>
+    </jugadores>
+</equipo>

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipo nombre="Leganes">
+    <jugadores>
+        <!-- Porteros -->
+        <jugador>
+            <nombre>Juan Soriano</nombre>
+            <dorsal>1</dorsal>
+            <demarcacion>Portero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>23/08/1997</nacimiento>
+            <altura>1.85m</altura>
+            <peso>78kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Dmitrovic</nombre>
+            <dorsal>13</dorsal>
+            <demarcacion>Portero</demarcacion>
+            <nacionalidad>Serbia</nacionalidad>
+            <nacimiento>24/01/1992</nacimiento>
+            <altura>1.94m</altura>
+            <peso>91kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Alvin</nombre>
+            <dorsal>36</dorsal>
+            <demarcacion>Portero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>12/05/2003</nacimiento>
+            <altura>1.87m</altura> <!-- Dato inventado para mantener la coherencia -->
+            <peso>79kg</peso> <!-- Dato inventado para mantener la coherencia -->
+        </jugador>
+        
+        <!-- Defensas -->
+        <jugador>
+            <nombre>A. Alti</nombre>
+            <dorsal>2</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>28/03/2001</nacimiento>
+            <altura>1.70m</altura>
+            <peso>62kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Jorge Sáenz</nombre>
+            <dorsal>3</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>17/11/1996</nacimiento>
+            <altura>1.88m</altura>
+            <peso>81kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>J. Porozo</nombre>
+            <dorsal>4</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>Ecuador</nacionalidad>
+            <nacimiento>04/08/2000</nacimiento>
+            <altura>1.91m</altura>
+            <peso>88kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Sergio G.</nombre>
+            <dorsal>6</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>20/04/1992</nacimiento>
+            <altura>1.88m</altura>
+            <peso>81kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>V. Rosier</nombre>
+            <dorsal>12</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>Francia</nacionalidad>
+            <nacimiento>19/08/1996</nacimiento>
+            <altura>1.75m</altura>
+            <peso>71kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Nastasić</nombre>
+            <dorsal>22</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>Serbia</nacionalidad>
+            <nacimiento>28/03/1993</nacimiento>
+            <altura>1.88m</altura>
+            <peso>83kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>J. Urbaez</nombre>
+            <dorsal>34</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>República Dominicana</nacionalidad>
+            <nacimiento>24/07/2002</nacimiento>
+            <altura>1.79m</altura>
+            <peso>73kg</peso>
+        </jugador>
+
+        <!-- Centrocampistas -->
+        <jugador>
+            <nombre>Tapia</nombre>
+            <dorsal>5</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Perú</nacionalidad>
+            <nacimiento>07/07/1995</nacimiento>
+            <altura>1.85m</altura>
+            <peso>78kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Óscar</nombre>
+            <dorsal>7</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>28/06/1998</nacimiento>
+            <altura>1.74m</altura>
+            <peso>67kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Cisse</nombre>
+            <dorsal>8</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Guinea</nacionalidad>
+            <nacimiento>10/02/2001</nacimiento>
+            <altura>1.77m</altura>
+            <peso>72kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Cruz</nombre>
+            <dorsal>11</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>25/04/2000</nacimiento>
+            <altura>1.77m</altura>
+            <peso>72kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Darko</nombre>
+            <dorsal>14</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Serbia</nacionalidad>
+            <nacimiento>12/02/1992</nacimiento>
+            <altura>1.78m</altura>
+            <peso>73kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Franquesa</nombre>
+            <dorsal>15</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>26/02/1997</nacimiento>
+            <altura>1.74m</altura>
+            <peso>70kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Neyou</nombre>
+            <dorsal>17</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Camerún</nacionalidad>
+            <nacimiento>03/01/1997</nacimiento>
+            <altura>1.80m</altura>
+            <peso>63kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Javi Hdez.</nombre>
+            <dorsal>20</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>02/05/1998</nacimiento>
+            <altura>1.85m</altura>
+            <peso>72kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>R. López</nombre>
+            <dorsal>21</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>24/04/2000</nacimiento>
+            <altura>1.79m</altura>
+            <peso>70kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>J. Chicco</nombre>
+            <dorsal>24</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Argentina</nacionalidad>
+            <nacimiento>13/01/1998</nacimiento>
+            <altura>1.81m</altura>
+            <peso>79kg</peso>
+        </jugador>
+
+        <!-- Delanteros -->
+        <jugador>
+            <nombre>Miguel</nombre>
+            <dorsal>9</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>03/09/1999</nacimiento>
+            <altura>1.80m</altura>
+            <peso>77kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Raba</nombre>
+            <dorsal>10</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>29/09/1995</nacimiento>
+            <altura>1.84m</altura>
+            <peso>76kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>S. Haller</nombre>
+            <dorsal>18</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>Costa de Marfil</nacionalidad>
+            <nacimiento>22/06/1994</nacimiento>
+            <altura>1.90m</altura>
+            <peso>82kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Diego</nombre>
+            <dorsal>19</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>18/04/2000</nacimiento>
+            <altura>1.86m</altura>
+            <peso>78kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Munir</nombre>
+            <dorsal>23</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>Marruecos</nacionalidad>
+            <nacimiento>01/09/1995</nacimiento>
+            <altura>1.75m</altura>
+            <peso>69kg</peso>
+        </jugador>
+    </jugadores>
+</equipo>

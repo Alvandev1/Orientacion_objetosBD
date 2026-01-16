@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipo nombre="Real Betis">
+    <jugadores>
+        <!-- Porteros -->
+        <jugador>
+            <nombre>Rui Silva</nombre>
+            <dorsal>1</dorsal>
+            <demarcacion>Portero</demarcacion>
+            <nacionalidad>Portugal</nacionalidad>
+            <nacimiento>07/02/1994</nacimiento>
+            <altura>1.91m</altura>
+            <peso>91kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Adrián</nombre>
+            <dorsal>13</dorsal>
+            <demarcacion>Portero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>03/01/1987</nacimiento>
+            <altura>1.90m</altura>
+            <peso>80kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>F. Vieites</nombre>
+            <dorsal>25</dorsal>
+            <demarcacion>Portero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>07/05/1999</nacimiento>
+            <altura>1.96m</altura>
+            <peso>88kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Manu G.</nombre>
+            <dorsal>41</dorsal>
+            <demarcacion>Portero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>18/04/2007</nacimiento>
+            <altura>1.80m</altura>
+            <peso>72kg</peso>
+        </jugador>
+
+        <!-- Defensas -->
+        <jugador>
+            <nombre>Bellerín</nombre>
+            <dorsal>2</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>19/03/1995</nacimiento>
+            <altura>1.78m</altura>
+            <peso>74kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Llorente R.</nombre>
+            <dorsal>3</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>16/08/1993</nacimiento>
+            <altura>1.86m</altura>
+            <peso>75kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Bartra</nombre>
+            <dorsal>5</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>15/01/1991</nacimiento>
+            <altura>1.84m</altura>
+            <peso>70kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Natan</nombre>
+            <dorsal>6</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>Brasil</nacionalidad>
+            <nacimiento>06/02/2001</nacimiento>
+            <altura>1.88m</altura>
+            <peso>92kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Rodríguez</nombre>
+            <dorsal>12</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>Suiza</nacionalidad>
+            <nacimiento>25/08/1992</nacimiento>
+            <altura>1.80m</altura>
+            <peso>78kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Perraud</nombre>
+            <dorsal>15</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>Francia</nacionalidad>
+            <nacimiento>22/09/1997</nacimiento>
+            <altura>1.73m</altura>
+            <peso>68kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Sabaly</nombre>
+            <dorsal>23</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>Senegal</nacionalidad>
+            <nacimiento>05/03/1993</nacimiento>
+            <altura>1.74m</altura>
+            <peso>67kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Lucas</nombre>
+            <dorsal>43</dorsal>
+            <demarcacion>Defensa</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>11/07/2002</nacimiento>
+            <altura>1.82m</altura>
+            <peso>75kg</peso>
+        </jugador>
+
+        <!-- Centrocampistas -->
+        <jugador>
+            <nombre>Johnny</nombre>
+            <dorsal>4</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Estados Unidos</nacionalidad>
+            <nacimiento>20/09/2001</nacimiento>
+            <altura>1.85m</altura>
+            <peso>83kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>William</nombre>
+            <dorsal>14</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Portugal</nacionalidad>
+            <nacimiento>07/04/1992</nacimiento>
+            <altura>1.87m</altura>
+            <peso>83kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>S. Altimira</nombre>
+            <dorsal>16</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>25/08/2001</nacimiento>
+            <altura>1.88m</altura>
+            <peso>80kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>P. Fornals</nombre>
+            <dorsal>18</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>22/02/1996</nacimiento>
+            <altura>1.78m</altura>
+            <peso>67kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Lo Celso</nombre>
+            <dorsal>20</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>Argentina</nacionalidad>
+            <nacimiento>09/04/1996</nacimiento>
+            <altura>1.77m</altura>
+            <peso>68kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Marc Roca</nombre>
+            <dorsal>21</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>26/11/1996</nacimiento>
+            <altura>1.84m</altura>
+            <peso>77kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Isco</nombre>
+            <dorsal>22</dorsal>
+            <demarcacion>Centrocampista</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>21/04/1992</nacimiento>
+            <altura>1.76m</altura>
+            <peso>79kg</peso>
+        </jugador>
+
+        <!-- Delanteros -->
+        <jugador>
+            <nombre>Juanmi</nombre>
+            <dorsal>7</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>20/05/1993</nacimiento>
+            <altura>1.72m</altura>
+            <peso>69kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Vitor Roque</nombre>
+            <dorsal>8</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>Brasil</nacionalidad>
+            <nacimiento>28/02/2005</nacimiento>
+            <altura>1.74m</altura>
+            <peso>78kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Ávila Chimy</nombre>
+            <dorsal>9</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>Argentina</nacionalidad>
+            <nacimiento>06/02/1994</nacimiento>
+            <altura>1.72m</altura>
+            <peso>81kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Ez Abde</nombre>
+            <dorsal>10</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>Marruecos</nacionalidad>
+            <nacimiento>17/12/2001</nacimiento>
+            <altura>1.77m</altura>
+            <peso>72kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Bakambu</nombre>
+            <dorsal>11</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>Congo, República</nacionalidad>
+            <nacimiento>11/04/1991</nacimiento>
+            <altura>1.82m</altura>
+            <peso>73kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Iker</nombre>
+            <dorsal>19</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>01/08/2001</nacimiento>
+            <altura>1.75m</altura>
+            <peso>70kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Aitor Ruibal</nombre>
+            <dorsal>24</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>22/03/1996</nacimiento>
+            <altura>1.76m</altura>
+            <peso>74kg</peso>
+        </jugador>
+        <jugador>
+            <nombre>Diao</nombre>
+            <dorsal>38</dorsal>
+            <demarcacion>Delantero</demarcacion>
+            <nacionalidad>España</nacionalidad>
+            <nacimiento>07/09/2005</nacimiento>
+            <altura>1.85m</altura>
+            <peso>80kg</peso>
+        </jugador>
+    </jugadores>
+</equipo>
